@@ -1,0 +1,16 @@
+.Toastify__toast-body {
+    /* text-align: center; */
+    margin: auto !important;
+  }
+
+.copy-container{
+  position: absolute;
+  left:5px;
+  top:5px;
+  cursor: pointer;
+}
+.copy-container>i{
+  font-size:15px;
+  color:#fff;
+  padding-left: 2px;
+}
