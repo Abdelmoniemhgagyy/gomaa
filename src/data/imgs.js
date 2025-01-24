@@ -18,7 +18,11 @@ const imgs = [
     { id: 16, title: "p", path: "/imgs/16.jpg" },
     { id: 17, title: "17", path: "/imgs/17.jpg" },
     { id: 18, title: "r", path: "/imgs/18.jpg" },
-    // { id: 19, title: "19", path: "/imgs/19.jpg" },
+    { id: 19, title: "19", path: "/imgs/20.jpg" },
+    { id: 20, title: "19", path: "/imgs/19.jpg" },
+    { id: 21, title: "19", path: "/imgs/21.jpg" },
+    { id: 22, title: "19", path: "/imgs/22.jpg" },
+    { id: 23, title: "19", path: "/imgs/23.jpg" },
     // { id: 20, title: "t", path: "/imgs/20.jpg" },
 ]
 export default shuffleArray(imgs)
